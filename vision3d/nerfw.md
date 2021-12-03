@@ -12,7 +12,7 @@ Modeling ubiquitous, real-world phenomena in uncontrolled images, such as variab
 
 #### **Technique**
 
-1. Add two emebeddings vectors, which are used to allow the Static and Transient networks to perform their respective tasks. The two emebeddings vectors are initialized randomly and are learned alongside the training process.
+1. Add two embeddings vectors, which are used to allow the Static and Transient networks to perform their respective tasks. The two embeddings vectors are initialized randomly and are learned alongside the training process.
 
 2. Output additional level of uncertainty $\beta$ and render similar as C and add into loss function.
 
