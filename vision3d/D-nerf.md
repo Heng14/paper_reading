@@ -1,6 +1,6 @@
 ### D-NeRF: Neural Radiance Fields for Dynamic Scenes
 
-[**paper**](https://arxiv.org/abs/2011.13961)[|**code**](https://github.com/albertpumarola/D-NeRF)
+[**project**](https://www.albertpumarola.com/research/D-NeRF/index.html)|[**paper**](https://arxiv.org/abs/2011.13961)[|**code**](https://github.com/albertpumarola/D-NeRF)
 
 #### **Overview**
 

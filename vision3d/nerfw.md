@@ -1,6 +1,6 @@
 ### NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections
 
-[**paper**](https://arxiv.org/abs/2008.02268)[|**code**](https://github.com/kwea123/nerf_pl)
+[**project**](https://nerf-w.github.io/)|[**paper**](https://arxiv.org/abs/2008.02268)[|**code**](https://github.com/kwea123/nerf_pl)
 
 #### **Overview**
 

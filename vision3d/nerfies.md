@@ -1,6 +1,6 @@
 ### Nerfies: Deformable Neural Radiance Fields
 
-[**paper**](https://arxiv.org/abs/2011.12948)[|**code**](https://github.com/google/nerfies)
+[**project**](https://nerfies.github.io/)|[**paper**](https://arxiv.org/abs/2011.12948)[|**code**](https://github.com/google/nerfies)
 
 #### **Overview**
 

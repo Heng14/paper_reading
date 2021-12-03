@@ -1,6 +1,6 @@
 ### Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video
 
-[**paper**](https://arxiv.org/abs/2012.12247)[|**code**](https://github.com/facebookresearch/nonrigid_nerf)
+[**project**](https://vcai.mpi-inf.mpg.de/projects/nonrigid_nerf/)|[**paper**](https://arxiv.org/abs/2012.12247)[|**code**](https://github.com/facebookresearch/nonrigid_nerf)
 
 #### **Overview**
 

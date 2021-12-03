@@ -1,6 +1,6 @@
 ### Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction
 
-[**paper**](https://arxiv.org/abs/2012.03065)[|**code**](https://github.com/gafniguy/4D-Facial-Avatars)
+[**project**](https://gafniguy.github.io/4D-Facial-Avatars/)|[**paper**](https://arxiv.org/abs/2012.03065)[|**code**](https://github.com/gafniguy/4D-Facial-Avatars)
 
 #### **Overview**
 
