@@ -1,4 +1,4 @@
-### Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video
+### GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields
 
 [**project**](https://m-niemeyer.github.io/project-pages/giraffe/index.html)|[**paper**](http://www.cvlibs.net/publications/Niemeyer2021CVPR.pdf)[|**code**](https://github.com/autonomousvision/giraffe)
 

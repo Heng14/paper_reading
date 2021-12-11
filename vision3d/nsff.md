@@ -14,7 +14,7 @@
 
 #### **Technique**
 
-1. **Temporal photometric consistency .**
+1. **Temporal photometric consistency.**
 
    <img src="img/nsff3.png" style="zoom:40%;" />
 

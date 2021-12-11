@@ -10,7 +10,7 @@ A novel approach for predicting volumetric avatars of the human head given only 
 
 #### **Technique**
 
-1. 3d point **X** is projected to 2d image pixel using camera intrinsic and extrinsic parameters according to the each input image ray direction. And then do bilinear interpolation on each f^(i)^ to get fx.
+1. 3d point **X** is projected to 2d image pixel using camera intrinsic and extrinsic parameters according to the each input image ray direction. And then do bilinear interpolation on each f^(i)^ to get f~x~.
 
 2. Explicitly take into the background.
 
@@ -18,6 +18,6 @@ A novel approach for predicting volumetric avatars of the human head given only 
 
 #### **Note**
 
-1. Limited extrapolation capa- bilities in terms of completely unobserved regions, e.g., the back of the head will not be reconstructed in detail if only front views are provided as example images. 
-2. Not be ap- plied to in-the-wild data.
+1. Limited extrapolation capabilities in terms of completely unobserved regions, e.g., the back of the head will not be reconstructed in detail if only front views are provided as example images. 
+2. Not be applied to in-the-wild data.
 

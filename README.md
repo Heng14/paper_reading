@@ -16,6 +16,10 @@ I will make notes about the paper I have read. Keep reading and doing solid rese
 - [NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images](vision3d/nerfdark.md)
 - [Neural Radiance Flow for 4D View Synthesis and Video Processing](vision3d/nerflow.md)
 - [Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes](vision3d/nsff.md)
+- [Portrait Neural Radiance Fields from a Single Image](vision3d/PortraitNerf.md)
+- [pixelNeRF: Neural Radiance Fields from One or Few Images](vision3d/pixelnerf1.md)
+- [FLAME-*in*-NeRF: Neural control of Radiance Fields for Free View Face Animation](vision3d/FlaminNerf.md)
+- [HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](vision3d/hypernerf.md)
 
 **de-noising**
 
