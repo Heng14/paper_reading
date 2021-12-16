@@ -24,6 +24,7 @@ I will make notes about the paper I have read. Keep reading and doing solid rese
 - [Photo-Realistic Facial Details Synthesis From Single Image](vision3d/PhotoRealistic.md)
 - [Learning to Recover 3D Scene Shape from a Single Image](vision3d/LearningRecover.md)
 - [FENeRF: Face Editing in Neural Radiance Fields](vision3d/FENeRF.md)
+- [pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis](vision3d/pi-GAN.md)
 
 **de-noising**
 
