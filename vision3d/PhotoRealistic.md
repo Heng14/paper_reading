@@ -6,7 +6,7 @@ ICCV2019 Oral
 
 #### **Overview**
 
-*We present a single-image 3D face synthesis technique that can handle challenging facial expressions while recov- ering fine geometric details.* 
+*We present a single-image 3D face synthesis technique that can handle challenging facial expressions while recovering fine geometric details.* 
 
 <img src="img/PhotoRealistic1.png" style="zoom:50%;" />
 
@@ -48,7 +48,7 @@ supervised loss: Obtain a ground truth displacement map for each geometry pair u
 
 unsupervised loss
 
-we obtain 163K in-the-wild images, estimate its proxy and geometric details (using network), and then use this information to calculate lighting and albedo. Finally, we re-render an image with all these es- timations and compute reconstruction loss against the input image during training.
+we obtain 163K in-the-wild images, estimate its proxy and geometric details (using network), and then use this information to calculate lighting and albedo. Finally, we re-render an image with all these estimations and compute reconstruction loss against the input image during training.
 
 
 #### **Note**
