@@ -20,9 +20,12 @@ I will make notes about the paper I have read. Keep reading and doing solid rese
 - [pixelNeRF: Neural Radiance Fields from One or Few Images](vision3d/pixelnerf1.md)
 - [FLAME-*in*-NeRF: Neural control of Radiance Fields for Free View Face Animation](vision3d/FlaminNerf.md)
 - [HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](vision3d/hypernerf.md)
+- [Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild](vision3d/UnsupSymmetric.md)
+- [Photo-Realistic Facial Details Synthesis From Single Image](vision3d/PhotoRealistic.md)
+- [Learning to Recover 3D Scene Shape from a Single Image](vision3d/LearningRecover.md)
+- [FENeRF: Face Editing in Neural Radiance Fields](vision3d/FENeRF.md)
 
 **de-noising**
 
 - [Noise2Noise: Learning Image Restoration without Clean Data](denoise/noise2noise.md)
 - [Neighbor2Neighbor: Self-Supervised Denoising from Single Noisy Images](denoise/neighbor2neighbor.md)
-
