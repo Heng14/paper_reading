@@ -1,6 +1,6 @@
 ### Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild
 
-CVPR 2020
+CVPR 2020 Best Paper
 
 [**project**](https://elliottwu.com/projects/unsup3d/)|[**paper**](https://arxiv.org/abs/1911.11130)|[**code**](https://github.com/elliottwu/unsup3d)
 
