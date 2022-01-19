@@ -11,7 +11,7 @@ I will make notes about the paper I have read. Keep reading and doing solid rese
 - [Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction](vision3d/Dynamic-nerf.md)
 - [Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video](vision3d/NonRigidNerf.md)
 - [GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis](vision3d/graf.md)
-- [Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video](vision3d/giraffe.md)
+- [GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields](vision3d/giraffe.md)
 - [Pixel-aligned Volumetric Avatars](vision3d/pva.md)
 - [NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images](vision3d/nerfdark.md)
 - [Neural Radiance Flow for 4D View Synthesis and Video Processing](vision3d/nerflow.md)
